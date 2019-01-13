@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README
+!LICENSE
+/CMakeLists.txt
+!/src
+!/src/*
+!/tests
+!/tests/*
+!/templates
+!/templates/*
+!/*.txt
